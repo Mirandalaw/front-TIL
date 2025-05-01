@@ -11,7 +11,8 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 
 ##  Screenshot
 
-![Recipe page solution.png](..%2FRecipe%20page%20solution.png)
+![Recipe page solution](https://github.com/user-attachments/assets/20c2a2e9-937f-4282-b901-88d04bd857f0)
+
 ##  Responsive
 
 - Mobile design: 375px
