@@ -13,7 +13,8 @@ This is my solution to the [Social links profile challenge on Frontend Mentor](h
 
 ## 📸 Screenshot
 
-![social-links-profile.png](../../../../../Downloads/social-links-profile.png)
+![social-links-profile](https://github.com/user-attachments/assets/6c7ef815-1de6-4625-b781-aa21d3c2d00e)
+
 ---
 
 ##  Responsive
